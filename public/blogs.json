@@ -1,10 +1,10 @@
 [
     {
       "id": 1,
-      "cover": "https://i.ibb.co/bX1D17J/2148042031.jpg", // Replace with actual image URL
+      "cover": "https://i.ibb.co/bX1D17J/2148042031.jpg", 
       "title": "The Art of Minimalism",
       "author": "John Doe",
-      "author_img": "https://via.placeholder.com/150x150", // Replace with actual image URL
+      "author_img": "https://via.placeholder.com/150x150", 
       "posted_date": "2023-11-22",
       "reading_time": 5,
       "hashtags": ["minimalism", "lifestyle", "simplicity"]
